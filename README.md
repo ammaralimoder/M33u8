@@ -8,7 +8,7 @@ A Telegram m3u8 converter bot.
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/lambda-stock/Telegram-m3u8-Converter">
+  <a href="https://heroku.com/deploy?template=https://github.com/ammaralimoder/M33u8">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
